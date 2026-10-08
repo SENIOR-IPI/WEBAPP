@@ -16,9 +16,9 @@ Local versions of Senior IPI calculator can also be installed on a computer or a
 
 - Any http server can be used (apache, nginx, nodejs...). Note that the calculator directory needs to be defined as the root of the web site. A workaround to integrate the calculator for example in an intranet, is to launch it in an <a href="https://www.w3schools.com/tags/tag_iframe.ASP" target="_blank">iframe</a>.Installation of the Senior-IPI calculator with the `SeniorIPIWeb` R package
 
-  ## Installation of the `SeniorIPIWeb` R package
+### Installation of the `SeniorIPIWeb` R package
 
-  An R package is also available to launch the web app in an R environment.
+An R package is also available to launch the web app in an R environment.
 
 - Download either the binary [Windows R](https://github.com/SENIOR-IPI/WEBAPP/blob/main/SeniorIPIWeb_0.1.0.zip) or the [source](https://github.com/SENIOR-IPI/WEBAPP/blob/main/SeniorIPIWeb_0.1.0.tar.gz) package for the other operating systems.
 
